@@ -14,7 +14,7 @@ function App() {
   const [persons, setPersons] = useState([
     { id: 1, name: "Margit", title: "CEO", age: 29, location: "Helsinki" },
     { id: 2, name: "Kati", title: "developer", age: 25, location: "NY" },
-    { id: 3, name: "Karin", title: "designer", age: 45, location: "Tartu" },
+    { id: 3, name: "Karin", title: "designer", age: 45, location: "Paris" },
   ]);
 
   const [users, setUsers] = useState([]);
